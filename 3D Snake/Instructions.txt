@@ -1,0 +1,21 @@
+3D Snake
+--------------------------------------
+Created by the developer of IsoEngine
+www.firstproductions.com/isoengine
+Copyright 2003 First Productions, Inc.
+--------------------------------------
+INSTRUCTIONS
+--------------------------------------
+1. If you do not have DirectX 8 or higher, please download it from www.microsoft.com/directx.  NOTE: IsoEngine is fully compatible with DirectX 9.
+
+2. Go to www.firstproductions.com/isoengine and download the demo for free.
+
+3. Open AI.vbp and run program
+
+4. Don't forget to vote!
+
+--------------------------------------
+SUPPORT
+--------------------------------------
+Questions? Comments? Bugs?
+You are welcome to use our forums at our web site (www.firstproductions.com/isoengine), or you can eamil them to isoengine@firstproductions.com
